@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useLayoutEffect, useState } from 'react';
 
 type Theme = 'light' | 'dark';
 const storageKey = 'umaa2026:theme';
@@ -8,11 +8,13 @@ const storageKey = 'umaa2026:theme';
 export function AppearanceControl() {
   const [theme, setTheme] = useState<Theme>('light');
 
-  useEffect(() => {
+  // Light is the UMAA default. A device preference is deliberately never read:
+  // dark is only restored after an attendee has explicitly chosen it here.
+  useLayoutEffect(() => {
     const stored = localStorage.getItem(storageKey);
     const resolved: Theme = stored === 'dark' || stored === 'light'
       ? stored
-      : window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      : 'light';
     document.documentElement.dataset.theme = resolved;
     setTheme(resolved);
   }, []);
