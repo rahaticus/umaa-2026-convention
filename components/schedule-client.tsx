@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useMemo, useState } from 'react';
-import { isLadiesOnly, sessions } from '@/lib/data';
+import { isLadiesOnly, sessionDescription, sessions } from '@/lib/data';
 import { SessionCard } from './session-card';
 
 const days = [['2026-10-09', 'Friday', 'October 9, 2026'], ['2026-10-10', 'Saturday', 'October 10, 2026'], ['2026-10-11', 'Sunday', 'October 11, 2026']] as const;
@@ -41,7 +41,7 @@ export function ScheduleClient() {
   const categories = useMemo(() => [...new Set(sessions.map(s => s.category))].sort(), []);
   const list = useMemo(() => sessions.filter(s => {
     const matchesView = view === 'full' || (view === 'main' && s.category === 'main session') || (view === 'workshops' && s.category === 'workshop') || (view === 'children' && s.category === 'children') || (view === 'ladies' && isLadiesOnly(s));
-    const searchable = [s.title, s.room, s.category, ...s.speakerNames, ...s.moderatorNames, ...s.facilitatorNames].join(' ').toLowerCase();
+    const searchable = [s.title, s.room, s.category, sessionDescription(s), ...s.speakerNames, ...s.moderatorNames, ...s.facilitatorNames].join(' ').toLowerCase();
     return matchesView && searchable.includes(query.toLowerCase()) && (!category || s.category === category) && (!room || s.room === room);
   }), [category, query, room, view]);
   const clearFilters = () => { setQuery(''); setCategory(''); setRoom(''); };

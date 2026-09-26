@@ -2,10 +2,12 @@ import rawSessions from '@/data/sessions_seed.json';
 import rawBios from '@/data/speaker_bios_clean.json';
 import aliases from '@/data/speaker_aliases_review.json';
 import roomsData from '@/data/rooms.json';
+import { detailedDescriptions } from '@/data/session_descriptions';
 
 export type PersonRole = 'speakerNames'|'moderatorNames'|'facilitatorNames'|'emceeNames';
 export type Session = (typeof rawSessions.sessions)[number];
 export const sessions: Session[] = rawSessions.sessions;
+export function sessionDescription(session: Session) { return detailedDescriptions[session.id] || session.shortDescription || ''; }
 /** Explicit program-audience metadata only; never inferred from title or speakers. */
 export function isLadiesOnly(session: Session) { return session.audience.includes('ladies only') || session.audience.includes('females only'); }
 export const rooms = roomsData.rooms;

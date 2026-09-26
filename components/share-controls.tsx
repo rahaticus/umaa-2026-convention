@@ -1,6 +1,6 @@
 'use client';
 
-import { Session, displayTime, sessionSlug } from '@/lib/data';
+import { Session, displayTime, sessionDescription, sessionSlug } from '@/lib/data';
 
 async function shareMessage(message: string) {
   try {
@@ -17,7 +17,7 @@ function originPath(path: string) { return `${location.origin}${path}`; }
 export function SessionShare({ session }: { session: Session }) {
   const share = () => {
     const speakers = session.speakerNames.map(name => `- ${name}`).join('\n');
-    const body = session.shortDescription || '';
+    const body = sessionDescription(session);
     const message = [`*${session.title}*`, speakers, body, originPath(`/sessions/${sessionSlug(session)}`)].filter((part, index) => index === 0 || part !== '').join('\n\n');
     return shareMessage(message);
   };
