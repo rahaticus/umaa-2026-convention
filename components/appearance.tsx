@@ -9,7 +9,12 @@ export function AppearanceControl() {
   const [theme, setTheme] = useState<Theme>('light');
 
   useEffect(() => {
-    setTheme(document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light');
+    const stored = localStorage.getItem(storageKey);
+    const resolved: Theme = stored === 'dark' || stored === 'light'
+      ? stored
+      : window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    document.documentElement.dataset.theme = resolved;
+    setTheme(resolved);
   }, []);
 
   const toggle = () => {
