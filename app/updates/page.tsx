@@ -1,0 +1,1 @@
+export default function Updates(){return <div id="content" className="container detail"><p className="eyebrow">Live information</p><h1>Convention updates</h1><div className="empty"><h2>No active updates</h2><p>Announcements, room changes, timing updates, and cancellations will appear here when published by UMAA.</p></div></div>}

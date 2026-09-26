@@ -1,0 +1,1 @@
+.session-card:before{width:2px;left:0}.session-card{padding-left:20px}.session-card[data-category="workshop"]{background:#faf8ff}.session-card[data-category="children"]{background:#f5fcfb}html[data-theme="dark"] .session-card[data-category="workshop"]{background:#171b38}html[data-theme="dark"] .session-card[data-category="children"]{background:#0c292c}

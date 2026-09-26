@@ -1,0 +1,26 @@
+.day-toggle {
+  border-left: 3px solid #176bff;
+  padding-left: 14px;
+}
+
+.day-toggle[aria-expanded="true"] { box-shadow: none; }
+
+.saved-day { margin-top: 24px; }
+.saved-day h2 {
+  border-left: 3px solid #176bff;
+  padding-left: 14px;
+  margin: 0 0 12px;
+}
+.saved-day h2 span {
+  font: 600 .78rem/1.3 Inter, ui-sans-serif, sans-serif;
+  color: var(--muted);
+  margin-left: 5px;
+}
+
+html[data-theme="dark"] .day-toggle,
+html[data-theme="dark"] .saved-day h2 { border-left-color: #66a4ff; }
+
+@media(max-width:719px){
+  .tools{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+  .tools select{min-width:0}
+}

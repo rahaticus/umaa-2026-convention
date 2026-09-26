@@ -1,0 +1,467 @@
+{
+  "policy": "Use confirmed matches automatically. Do not automatically merge probable or unresolved matches. Ask for human confirmation or leave the biography unavailable.",
+  "fallbackBio": "Bio not currently available",
+  "matches": [
+    {
+      "programName": "Qari Saif Al-Hussaini",
+      "sourceName": "Qari Saif al Hussaini",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Dr. Ehtisham Abidi",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Rizwan Khalfan",
+      "sourceName": "Rizwan Khaldan",
+      "status": "probable",
+      "notes": "Spreadsheet row uses Khaldan and contains no biography. Program uses Khalfan."
+    },
+    {
+      "programName": "Maulana Syed Muhammad Al Najafi",
+      "sourceName": "Syed Mohammad Ali Najafi",
+      "status": "probable",
+      "notes": "Spreadsheet biography begins Maulana Syed Muhammad Ali Najafi. Program omits Ali."
+    },
+    {
+      "programName": "Dr. Azmat Husain",
+      "sourceName": "Dr.Azmat Husain",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Mesum Abbas",
+      "sourceName": "Mesum Abbas",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Syed Mesum Abbas",
+      "sourceName": "Mesum Abbas",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Sheikh Fadhil Sahlani",
+      "sourceName": "Sheikh Fadhell Al Sahlani",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Mehboob Sewjee",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Sr. Marzia Hassan",
+      "sourceName": "Marzia Hassan",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Sheikh Azhar Nasser",
+      "sourceName": "Shaykh Azhar Nasser",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Dr. Ali Nasrallah",
+      "sourceName": "Dr.Ali Nasrallah",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Dr. Sayed Ammar Nakshawani",
+      "sourceName": "Dr.Sayed Ammar Nakshawani",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Sayed Ali Khalkhali",
+      "sourceName": "Sayed Ali Khalkhali",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Syed Jarry Haider Zaidi",
+      "sourceName": "Syed Jarry Haider Rizvi",
+      "status": "confirmed",
+      "notes": "The spreadsheet row label says Rizvi, but the biography itself begins Syed Jarry Haider Zaidi."
+    },
+    {
+      "programName": "Jarry Zaidi",
+      "sourceName": "Syed Jarry Haider Rizvi",
+      "status": "confirmed",
+      "notes": "Abbreviated form in special programme."
+    },
+    {
+      "programName": "Sr. Anisa Diab",
+      "sourceName": "Anisa Diab",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Sr. Naba Bahar",
+      "sourceName": "Nabaa Baher",
+      "status": "probable",
+      "notes": "Minor spelling variation."
+    },
+    {
+      "programName": "Sayyid Mehboob Mehdi Abidi",
+      "sourceName": "Maulana Mehboob Mehdi",
+      "status": "confirmed",
+      "notes": "Spreadsheet biography begins Sayyid Mehboob Mehdi Abidi al-Najafi."
+    },
+    {
+      "programName": "Sayed Mehboob",
+      "sourceName": "Maulana Mehboob Mehdi",
+      "status": "probable",
+      "notes": "Abbreviated special programme listing."
+    },
+    {
+      "programName": "Sarah Kermalli",
+      "sourceName": "Sarah Kermalli",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Sheikh Faiyaz Jaffer",
+      "sourceName": "Sheikh Faiyaz Jaffer",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Sheikh Nuru Mohammed",
+      "sourceName": "Shaykh Nuru Mohamed",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Dr. Hassan Abbas",
+      "sourceName": "Dr.Hasan Abbas",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Dr. Mehdi Husaini",
+      "sourceName": "Dr.Sayed Mehdi Husaini",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Sheikh Mohammed Al-Hilli",
+      "sourceName": "Shaykh Mohammad Al Hilli",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Shyrose Jaffer Dhalla",
+      "sourceName": "Zakira Shyrose Dhalla",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Dr. Sayed Moustafa Qazwini",
+      "sourceName": "Dr.Sayed Mostafa Qazwini",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Dr. Moustafa Al-Qazwini",
+      "sourceName": "Dr.Sayed Mostafa Qazwini",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Kumail Razavi",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Abeeha Hassan",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Jafar Syed",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Alabbas Farhat",
+      "sourceName": "Alabbas Farhat",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Akbar Ali",
+      "sourceName": "Akbar Ali",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Ali Aljarrah",
+      "sourceName": "Ali Aljarrah",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Abdullah Hammoud",
+      "sourceName": "Abdullah Hammoud",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Rahat Husain",
+      "sourceName": "Rahat Husain",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Khanum Asma Abidi",
+      "sourceName": "Khanum Syeda Asma ‘Abidi",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Mullah Ali Fadhil",
+      "sourceName": "Mulla Ali Fadhil",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Mehdi Hasan",
+      "sourceName": "Mehdi Hasan",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Shabir Mukhtar",
+      "sourceName": "Shabir Mukhtar",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Dr. Adam Fahs",
+      "sourceName": "Dr.Adam Fahs",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Dr. Adam Fahs, MD",
+      "sourceName": "Dr.Adam Fahs",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Dr. Saleh Al-Ameen",
+      "sourceName": "Dr.Saleh Al Ameen",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Dr. Saleh Al-Ameen, MD",
+      "sourceName": "Dr.Saleh Al Ameen",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Hyder Mirza",
+      "sourceName": "Hyder Mirza",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Hyder Mirza, CRNA",
+      "sourceName": "Hyder Mirza",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Dr. Sayeda Elhaam Jawadi",
+      "sourceName": "Dr.Sayeda Elhaam Jawadi",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Dr. Sayeda Elhaam Jawadi, MD",
+      "sourceName": "Dr.Sayeda Elhaam Jawadi",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Faraz Zaidi",
+      "sourceName": "Faraz Zaidi",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Iram Zaidi",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Dr. Noor Zaidi",
+      "sourceName": "Dr.Noor Zaidi",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Ahmed Gokal",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Sayed Ali Radhawi",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Mullah Haider Al Bayati",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Mullah Nizar Qatari",
+      "sourceName": "Mulla Nazar al Qatari",
+      "status": "probable",
+      "notes": "Program and spreadsheet use different spellings of the given name."
+    },
+    {
+      "programName": "Dr. Qunoot Almecci",
+      "sourceName": "Qunoot Almecci",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Saarah Panju",
+      "sourceName": "Sarah Panju",
+      "status": "probable",
+      "notes": "Program spells Saarah; spreadsheet spells Sarah."
+    },
+    {
+      "programName": "Dr. Sajjad Rizvi",
+      "sourceName": "Professor Sajjad Rizvi",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Dr. Shaikh Vinay Khetia",
+      "sourceName": "Dr.Vinay Khetia",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Dr. Nebil Husayn",
+      "sourceName": "Dr.Nebil Husayn",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Dr. Wasif Rizvi",
+      "sourceName": "Dr.Wasif Rizvi",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Dr. Syed Wasif Rizvi",
+      "sourceName": "Dr.Wasif Rizvi",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Shantanu Mehra",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Zahra Al-Alawi",
+      "sourceName": "Zahra Al Alawi",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Dr. Payam Mohseni",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Dr. Ali Moosvi",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Abbas Jafri",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Mustafa Abdi",
+      "sourceName": "Mustafa Abdi",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Tahir Ladha",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Maitham Ladha",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Mesum Ali",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Murtaza Kazmi",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Adeel Murtza",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Zain Abdi",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Irteza Hussain",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Nasim Zehra",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Shabbar Zaidi",
+      "sourceName": "Syed Shabbar Zaidi",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Sayed Mazen Al Mourtada",
+      "sourceName": "Mazen Al Mourtada",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Sheikh Umar Ramadan",
+      "sourceName": "Shaykh Muhammad Umar Ramadan",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Nouri Sardar",
+      "sourceName": "Nouri Sardar",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Nermeen Arastu",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Dr. Syed Mehdi Abbas Husaini",
+      "sourceName": "Dr.Sayed Mehdi Husaini",
+      "status": "probable",
+      "notes": "Likely the same person, but the program includes Abbas and the spreadsheet does not."
+    },
+    {
+      "programName": "Br. Faraz Hasan Zaidi",
+      "sourceName": "Faraz Hasan Zaidi",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Dr. Ghulam Abbas",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Ali Jafri",
+      "sourceName": null,
+      "status": "unmatched"
+    },
+    {
+      "programName": "Abraham Obeid",
+      "sourceName": "Abraham Obeid",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Mustafa AlSultany",
+      "sourceName": "Mustafa Alsultany",
+      "status": "confirmed"
+    },
+    {
+      "programName": "Syed Rizvi",
+      "sourceName": "Syed Wajahat Rizvi",
+      "status": "probable",
+      "notes": "The program gives only Syed Rizvi. Confirm identity before attaching this biography."
+    },
+    {
+      "programName": "Br. Shabir Mukhtar",
+      "sourceName": "Shabir Mukhtar",
+      "status": "confirmed"
+    }
+  ]
+}

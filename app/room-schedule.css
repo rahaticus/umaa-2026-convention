@@ -1,0 +1,2 @@
+.room-schedule{display:grid;gap:7px;margin-top:16px;padding-top:15px;border-top:1px solid var(--line)}
+.room-schedule h2{font-size:1.15rem}.room-schedule a{display:grid;gap:2px;padding:10px 0;border-bottom:1px solid var(--line);text-decoration:none}.room-schedule a:last-child{border-bottom:0}.room-schedule time,.room-empty{font-size:.78rem;color:var(--muted)}

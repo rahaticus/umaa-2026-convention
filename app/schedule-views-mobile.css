@@ -1,0 +1,5 @@
+@media(max-width:719px){
+  .schedule-views{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));overflow:visible}
+  .schedule-views button{min-height:40px;white-space:normal;line-height:1.15}
+  .schedule-views button:last-child{grid-column:1/-1}
+}

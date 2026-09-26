@@ -1,0 +1,1445 @@
+{
+  "source": "UMAA 2026 Final Program.pdf",
+  "timezone": "America/Toronto",
+  "missingExactTimePolicy": "Do not invent a time. Display the timeLabel from the source and sort in a separate Anytime or Morning section.",
+  "sessions": [
+    {
+      "id": "fri_once_upon_ayah_under6",
+      "date": "2026-10-09",
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "timeLabel": null,
+      "title": "Once Upon an Āyah",
+      "subtitle": null,
+      "room": "Holly + Butternut",
+      "category": "children",
+      "audience": [
+        "ages 0 to 5"
+      ],
+      "shortDescription": null,
+      "speakerNames": [
+        "Aqeelah Publishing"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        10
+      ]
+    },
+    {
+      "id": "fri_rooted_together_7_11",
+      "date": "2026-10-09",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "timeLabel": null,
+      "title": "Rooted Together",
+      "subtitle": null,
+      "room": "Evergreen",
+      "category": "children",
+      "audience": [
+        "ages 7 to 11"
+      ],
+      "shortDescription": null,
+      "speakerNames": [
+        "Al-Kisa Foundation"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        10
+      ]
+    },
+    {
+      "id": "fri_opening_ceremony",
+      "date": "2026-10-09",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "timeLabel": null,
+      "title": "Opening Ceremony",
+      "subtitle": null,
+      "room": "Main Conference Hall",
+      "category": "main session",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "Quran recitation, UMAA and host community remarks, spiritual recitation, and keynote address.",
+      "speakerNames": [
+        "Qari Saif Al-Hussaini",
+        "Dr. Ehtisham Abidi",
+        "Rizwan Khalfan",
+        "Maulana Syed Muhammad Al Najafi",
+        "Dr. Azmat Husain",
+        "Mesum Abbas",
+        "Sheikh Fadhil Sahlani"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [
+        "Mehboob Sewjee"
+      ],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        5,
+        15
+      ]
+    },
+    {
+      "id": "fri_muslim_families_ai",
+      "date": "2026-10-09",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "timeLabel": null,
+      "title": "The Next Chapter for Muslim Families",
+      "subtitle": "Thriving in the age of AI.",
+      "room": "Maple",
+      "category": "workshop",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "A working session on sukoon and what can be protected when the device is faster than the parent.",
+      "speakerNames": [],
+      "moderatorNames": [],
+      "facilitatorNames": [
+        "Sr. Marzia Hassan"
+      ],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        15
+      ]
+    },
+    {
+      "id": "fri_blueprint",
+      "date": "2026-10-09",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "timeLabel": null,
+      "title": "The Blueprint",
+      "subtitle": "Balancing friendship, academics, and personal growth.",
+      "room": "Primrose",
+      "category": "youth",
+      "audience": [
+        "males only",
+        "ages 12 and up"
+      ],
+      "shortDescription": "An interactive series for young men on friendships, school, confidence, critical thinking, and self esteem.",
+      "speakerNames": [
+        "Sheikh Azhar Nasser"
+      ],
+      "moderatorNames": [
+        "Dr. Ali Nasrallah"
+      ],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        12,
+        17
+      ]
+    },
+    {
+      "id": "fri_unfiltered",
+      "date": "2026-10-09",
+      "startTime": "21:00",
+      "endTime": "22:30",
+      "timeLabel": null,
+      "title": "Unfiltered",
+      "subtitle": "What young Muslims are really asking.",
+      "room": "Main Conference Hall",
+      "category": "main session",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "An open conversation directed by young people in the room, covering the phone, AI, depression, and gender.",
+      "speakerNames": [
+        "Dr. Sayed Ammar Nakshawani",
+        "Sayed Ali Khalkhali",
+        "Syed Jarry Haider Zaidi",
+        "Sr. Naba Bahar",
+        "Sr. Anisa Diab"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": "Session brought to UMAA by Imam Hussein TV.",
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        5,
+        12,
+        15
+      ]
+    },
+    {
+      "id": "fri_mothers_lounge",
+      "date": "2026-10-09",
+      "startTime": null,
+      "endTime": null,
+      "timeLabel": "Open during the convention day",
+      "title": "Mothers Relaxation & Massage Chair Lounge",
+      "subtitle": null,
+      "room": "Jasmine",
+      "category": "special programme",
+      "audience": [
+        "ladies only"
+      ],
+      "shortDescription": "Walk in massage chairs. No registration and no fixed schedule.",
+      "speakerNames": [],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": true,
+      "sourcePages": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "sat_fajr_nahjul_balagha",
+      "date": "2026-10-10",
+      "startTime": null,
+      "endTime": null,
+      "timeLabel": "Morning, exact time not specified in source",
+      "title": "Fajr and Nahjul Balagha",
+      "subtitle": null,
+      "room": "Main Conference Hall",
+      "category": "special programme",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "Morning reflection followed by a reading circle on Imam Ali’s sermons. Breakfast is served after Fajr.",
+      "speakerNames": [
+        "Sayed Mehboob",
+        "Jarry Zaidi"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": true,
+      "sourcePages": [
+        13
+      ]
+    },
+    {
+      "id": "sat_once_upon_ayah_under6",
+      "date": "2026-10-10",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "timeLabel": null,
+      "title": "Once Upon an Āyah",
+      "subtitle": null,
+      "room": "Holly + Butternut",
+      "category": "children",
+      "audience": [
+        "ages 0 to 5"
+      ],
+      "shortDescription": null,
+      "speakerNames": [
+        "Aqeelah Publishing"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        10
+      ]
+    },
+    {
+      "id": "sat_rooted_together_7_11",
+      "date": "2026-10-10",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "timeLabel": null,
+      "title": "Rooted Together",
+      "subtitle": null,
+      "room": "Evergreen",
+      "category": "children",
+      "audience": [
+        "ages 7 to 11"
+      ],
+      "shortDescription": null,
+      "speakerNames": [
+        "Al-Kisa Foundation"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        10
+      ]
+    },
+    {
+      "id": "sat_movement_heal",
+      "date": "2026-10-10",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "timeLabel": null,
+      "title": "How Movement Can Heal",
+      "subtitle": null,
+      "room": "Maple",
+      "category": "ladies programme",
+      "audience": [
+        "ladies only"
+      ],
+      "shortDescription": "A pilates led hour on posture, mobility, and the way we hold ourselves in a room.",
+      "speakerNames": [
+        "Sarah Kermalli"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "sat_future_shia_north_america",
+      "date": "2026-10-10",
+      "startTime": "10:00",
+      "endTime": "11:50",
+      "timeLabel": null,
+      "title": "Building a Future for the Shia in North America",
+      "subtitle": "The People, the Work, the Institutions.",
+      "room": "Main Conference Hall",
+      "category": "main session",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "The first generation built the mosques. This session asks what institutions, scholarship, mental health care, media, and youth leadership come next.",
+      "speakerNames": [
+        "Sr. Anisa Diab",
+        "Sheikh Faiyaz Jaffer",
+        "Sheikh Nuru Mohammed",
+        "Sheikh Azhar Nasser",
+        "Dr. Hassan Abbas"
+      ],
+      "moderatorNames": [
+        "Dr. Mehdi Husaini"
+      ],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        5,
+        18
+      ]
+    },
+    {
+      "id": "sat_al_baqee",
+      "date": "2026-10-10",
+      "startTime": "11:00",
+      "endTime": "12:30",
+      "timeLabel": null,
+      "title": "Al Baqee",
+      "subtitle": "A hundred years of rubble — Jannat al-Baqi and the case for restoration.",
+      "room": "Orchid + Violet",
+      "category": "workshop",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "Where advocacy for Jannat al Baqi has moved, where it has stalled, and what communities can do beyond annual commemoration.",
+      "speakerNames": [
+        "Sayyid Mehboob Mehdi Abidi",
+        "Sheikh Mohammed Al-Hilli",
+        "Shyrose Jaffer Dhalla",
+        "Dr. Sayed Moustafa Qazwini"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [
+        "Kumail Razavi"
+      ],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        6,
+        30
+      ]
+    },
+    {
+      "id": "sat_shia_survived",
+      "date": "2026-10-10",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "timeLabel": null,
+      "title": "How the Shia Survived Hostile Rule",
+      "subtitle": "Enduring, engaging, and building under every regime.",
+      "room": "Main Conference Hall",
+      "category": "main session",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "Fourteen centuries of Shia endurance under hostile rule and why that history still matters in 2026.",
+      "speakerNames": [
+        "Dr. Sayed Ammar Nakshawani"
+      ],
+      "moderatorNames": [
+        "Dr. Mehdi Husaini"
+      ],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        5,
+        18
+      ]
+    },
+    {
+      "id": "sat_once_upon_ayah_under6_pm",
+      "date": "2026-10-10",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "timeLabel": null,
+      "title": "Once Upon an Āyah",
+      "subtitle": null,
+      "room": "Holly + Butternut",
+      "category": "children",
+      "audience": [
+        "ages 0 to 5"
+      ],
+      "shortDescription": null,
+      "speakerNames": [
+        "Aqeelah Publishing"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        10
+      ]
+    },
+    {
+      "id": "sat_youth_ummah_builders",
+      "date": "2026-10-10",
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "timeLabel": null,
+      "title": "Youth Ummah Builders",
+      "subtitle": null,
+      "room": "Primrose",
+      "category": "youth",
+      "audience": [
+        "ages 16 to 25"
+      ],
+      "shortDescription": "A leadership simulation in which participants form councils, set priorities, and work through real community problems.",
+      "speakerNames": [
+        "Abeeha Hassan",
+        "Jafar Syed"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        12,
+        21
+      ]
+    },
+    {
+      "id": "sat_masjid_city_hall",
+      "date": "2026-10-10",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "timeLabel": null,
+      "title": "From the Masjid to City Hall",
+      "subtitle": "Muslims winning public office across North America.",
+      "room": "Main Conference Hall",
+      "category": "main session",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "Elected officials and a civil rights advocate discuss the machinery of running for office and building Muslim political representation.",
+      "speakerNames": [
+        "Alabbas Farhat",
+        "Akbar Ali",
+        "Ali Aljarrah",
+        "Abdullah Hammoud"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [
+        "Rahat Husain"
+      ],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        5,
+        20
+      ]
+    },
+    {
+      "id": "sat_women_ahlul_bayt",
+      "date": "2026-10-10",
+      "startTime": "15:30",
+      "endTime": "17:00",
+      "timeLabel": null,
+      "title": "The Women of the Ahlul Bayt (a)",
+      "subtitle": null,
+      "room": "Orchid + Violet",
+      "category": "workshop",
+      "audience": [
+        "ladies only"
+      ],
+      "shortDescription": "An interactive workshop on women of the Ahlul Bayt whose lives are rarely taught. Bring daughters.",
+      "speakerNames": [],
+      "moderatorNames": [],
+      "facilitatorNames": [
+        "Khanum Asma Abidi"
+      ],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        6,
+        14,
+        31
+      ]
+    },
+    {
+      "id": "sat_growing_greatness",
+      "date": "2026-10-10",
+      "startTime": "15:30",
+      "endTime": "17:30",
+      "timeLabel": null,
+      "title": "Growing into Greatness",
+      "subtitle": null,
+      "room": "Evergreen",
+      "category": "children",
+      "audience": [
+        "ages 7 to 11"
+      ],
+      "shortDescription": null,
+      "speakerNames": [
+        "Mullah Ali Fadhil"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        10
+      ]
+    },
+    {
+      "id": "sat_america_israel_iran",
+      "date": "2026-10-10",
+      "startTime": "16:00",
+      "endTime": "17:15",
+      "timeLabel": null,
+      "title": "America, Israel, and Iran",
+      "subtitle": "War, genocide, and what comes next.",
+      "room": "Main Conference Hall",
+      "category": "main session",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "Mehdi Hasan on the war, what it has cost, and what would have to be true for it to end.",
+      "speakerNames": [
+        "Mehdi Hasan"
+      ],
+      "moderatorNames": [
+        "Dr. Hassan Abbas"
+      ],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": "In partnership with Imam Hussein TV for selected segments.",
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        5,
+        23
+      ]
+    },
+    {
+      "id": "sat_belief_action_zahra_trust",
+      "date": "2026-10-10",
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "timeLabel": null,
+      "title": "Belief into Action: Zahra Trust",
+      "subtitle": null,
+      "room": "Orchid + Violet",
+      "category": "workshop",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "Proof of impact on the frontlines, with relief turning into permanence, classrooms, water, and long term community capacity.",
+      "speakerNames": [
+        "Dr. Sayed Ammar Nakshawani",
+        "Sheikh Nuru Mohammed",
+        "Br. Shabir Mukhtar"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        6,
+        31
+      ]
+    },
+    {
+      "id": "sat_beyond_witnessing",
+      "date": "2026-10-10",
+      "startTime": "17:15",
+      "endTime": "18:45",
+      "timeLabel": null,
+      "title": "Beyond Witnessing",
+      "subtitle": "Palestine, Lebanon, and the Call to Serve.",
+      "room": "Main Conference Hall",
+      "category": "main session",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "Clinicians who worked in Palestine and Lebanon discuss what they saw and how professional expertise can become service.",
+      "speakerNames": [
+        "Dr. Adam Fahs, MD",
+        "Dr. Saleh Al-Ameen, MD",
+        "Hyder Mirza, CRNA"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [
+        "Dr. Sayeda Elhaam Jawadi, MD"
+      ],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        5,
+        20
+      ]
+    },
+    {
+      "id": "sat_connecting_imam",
+      "date": "2026-10-10",
+      "startTime": "17:15",
+      "endTime": "18:45",
+      "timeLabel": null,
+      "title": "Connecting to the Imam of Our Time",
+      "subtitle": "Waiting is not standing still — ma’rifat of Imam al Mahdi (aj).",
+      "room": "Holly + Butternut",
+      "category": "workshop",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "Frameworks for active waiting, resilience through hardship, and a durable connection to the Imam of our time.",
+      "speakerNames": [
+        "Maulana Syed Muhammad Al Najafi",
+        "Dr. Mehdi Husaini",
+        "Dr. Sayed Moustafa Qazwini",
+        "Syed Jarry Haider Zaidi"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [
+        "Dr. Ali Nasrallah"
+      ],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        6,
+        30
+      ]
+    },
+    {
+      "id": "sat_fashion_archive",
+      "date": "2026-10-10",
+      "startTime": "17:15",
+      "endTime": "18:45",
+      "timeLabel": null,
+      "title": "Fashion as a Living Archive",
+      "subtitle": null,
+      "room": "Maple",
+      "category": "workshop",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "A hands on session on heritage, borrowing, design, and what clothing carries across generations.",
+      "speakerNames": [],
+      "moderatorNames": [],
+      "facilitatorNames": [
+        "Faraz Zaidi",
+        "Iram Zaidi",
+        "Dr. Noor Zaidi"
+      ],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        6,
+        32
+      ]
+    },
+    {
+      "id": "sat_politics_influence",
+      "date": "2026-10-10",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "timeLabel": null,
+      "title": "The Politics of Influence",
+      "subtitle": null,
+      "room": "Holly + Butternut",
+      "category": "workshop",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "After Maghrib recorded live on power, media, public opinion, faith, PACs, lobbying, and how influence is built.",
+      "speakerNames": [
+        "Akbar Ali",
+        "Ahmed Gokal",
+        "Sayed Ali Radhawi"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        6,
+        32
+      ]
+    },
+    {
+      "id": "sat_grand_remembrance",
+      "date": "2026-10-10",
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "timeLabel": null,
+      "title": "Grand Night of Remembrance",
+      "subtitle": null,
+      "room": "Main Conference Hall",
+      "category": "main session",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": null,
+      "speakerNames": [
+        "Mullah Haider Al Bayati",
+        "Mullah Nizar Qatari",
+        "Syed Mesum Abbas",
+        "Mullah Ali Fadhil"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        5
+      ]
+    },
+    {
+      "id": "sat_mothers_lounge",
+      "date": "2026-10-10",
+      "startTime": null,
+      "endTime": null,
+      "timeLabel": "Open during the convention day",
+      "title": "Mothers Relaxation & Massage Chair Lounge",
+      "subtitle": null,
+      "room": "Jasmine",
+      "category": "special programme",
+      "audience": [
+        "ladies only"
+      ],
+      "shortDescription": "Walk in massage chairs. No registration and no fixed schedule.",
+      "speakerNames": [],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": true,
+      "sourcePages": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "sun_fajr_nahjul_balagha",
+      "date": "2026-10-11",
+      "startTime": null,
+      "endTime": null,
+      "timeLabel": "Morning, exact time not specified in source",
+      "title": "Fajr and Nahjul Balagha",
+      "subtitle": null,
+      "room": "Main Conference Hall",
+      "category": "special programme",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "Morning reflection followed by a reading circle on Imam Ali’s sermons. Breakfast is served after Fajr.",
+      "speakerNames": [
+        "Sayed Mehboob",
+        "Jarry Zaidi"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": true,
+      "sourcePages": [
+        13
+      ]
+    },
+    {
+      "id": "sun_habib",
+      "date": "2026-10-11",
+      "startTime": "09:00",
+      "endTime": "16:30",
+      "timeLabel": null,
+      "title": "HABIB",
+      "subtitle": null,
+      "room": "Maple",
+      "category": "special programme",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "A day long continuing medical education track for healthcare providers and trainees. CME credit runs alongside the convention.",
+      "speakerNames": [
+        "Imamia Medics International"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        13
+      ]
+    },
+    {
+      "id": "sun_rooted_together_under6",
+      "date": "2026-10-11",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "timeLabel": null,
+      "title": "Rooted Together",
+      "subtitle": null,
+      "room": "Holly + Butternut",
+      "category": "children",
+      "audience": [
+        "ages 0 to 5"
+      ],
+      "shortDescription": null,
+      "speakerNames": [
+        "Al-Kisa Foundation"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        10
+      ]
+    },
+    {
+      "id": "sun_islamic_jeopardy",
+      "date": "2026-10-11",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "timeLabel": null,
+      "title": "Islamic Jeopardy",
+      "subtitle": null,
+      "room": "Evergreen",
+      "category": "children",
+      "audience": [
+        "ages 7 to 11"
+      ],
+      "shortDescription": null,
+      "speakerNames": [
+        "Jeopardy × UMAA"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        10
+      ]
+    },
+    {
+      "id": "sun_academic_planning",
+      "date": "2026-10-11",
+      "startTime": "10:00",
+      "endTime": "11:30",
+      "timeLabel": null,
+      "title": "Academic Planning",
+      "subtitle": null,
+      "room": "Primrose",
+      "category": "youth",
+      "audience": [
+        "grades 8 to 12",
+        "parents and families"
+      ],
+      "shortDescription": "A project based session on applications, scholarships, financial aid, course selection, fit, and cost for students and parents together.",
+      "speakerNames": [
+        "Dr. Qunoot Almecci"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        12
+      ]
+    },
+    {
+      "id": "sun_strength_all_ages",
+      "date": "2026-10-11",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "timeLabel": null,
+      "title": "Strength for All Ages",
+      "subtitle": null,
+      "room": "Orchid",
+      "category": "ladies programme",
+      "audience": [
+        "ladies only"
+      ],
+      "shortDescription": "A practical introduction to bone density, posture, and strength training at different ages.",
+      "speakerNames": [
+        "Saarah Panju"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "sun_academic_institutions",
+      "date": "2026-10-11",
+      "startTime": "10:00",
+      "endTime": "11:30",
+      "timeLabel": null,
+      "title": "Building Academic Institutions to Tell Our Own Story",
+      "subtitle": "Chairs, institutes and universities — Toronto to Karachi.",
+      "room": "Main Conference Hall",
+      "category": "main session",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "Scholars and a university president discuss how chairs, institutes, endowments, and partnerships are built for long term Shia studies.",
+      "speakerNames": [
+        "Dr. Sajjad Rizvi",
+        "Dr. Shaikh Vinay Khetia",
+        "Dr. Nebil Husayn",
+        "Dr. Wasif Rizvi"
+      ],
+      "moderatorNames": [
+        "Shantanu Mehra"
+      ],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        8,
+        24
+      ]
+    },
+    {
+      "id": "sun_raising_generation",
+      "date": "2026-10-11",
+      "startTime": "11:30",
+      "endTime": "13:00",
+      "timeLabel": null,
+      "title": "Raising the Next Great Generation",
+      "subtitle": null,
+      "room": "Main Conference Hall",
+      "category": "main session",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "Five scholars and educators on what raising the next generation takes at home, at the centre, and in education.",
+      "speakerNames": [
+        "Sr. Naba Bahar",
+        "Zahra Al-Alawi",
+        "Sayyid Mehboob Mehdi Abidi",
+        "Sheikh Mohammed Al-Hilli",
+        "Dr. Moustafa Al-Qazwini"
+      ],
+      "moderatorNames": [
+        "Mullah Ali Fadhil"
+      ],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        8,
+        24
+      ]
+    },
+    {
+      "id": "sun_shiism_contexts",
+      "date": "2026-10-11",
+      "startTime": "11:30",
+      "endTime": "13:00",
+      "timeLabel": null,
+      "title": "Shiism in Contexts",
+      "subtitle": "Academy | Policy | Civil Society",
+      "room": "Orchid + Violet",
+      "category": "workshop",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "A cross context dialogue on how Shiism is understood, framed, and advocated within universities, policy spaces, and civil society.",
+      "speakerNames": [
+        "Dr. Noor Zaidi",
+        "Dr. Payam Mohseni",
+        "Dr. Hassan Abbas"
+      ],
+      "moderatorNames": [
+        "Shantanu Mehra"
+      ],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        9,
+        33
+      ]
+    },
+    {
+      "id": "sun_palestine_action",
+      "date": "2026-10-11",
+      "startTime": "11:30",
+      "endTime": "13:00",
+      "timeLabel": null,
+      "title": "Palestine and What We Can Do From Here",
+      "subtitle": null,
+      "room": "Primrose",
+      "category": "workshop",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "A panel and working session on the global picture and what activism from North America can realistically do.",
+      "speakerNames": [
+        "Dr. Ali Moosvi",
+        "Abbas Jafri",
+        "Dr. Saleh Al-Ameen, MD",
+        "Mustafa Abdi"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": "Open to all.",
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        9,
+        33
+      ]
+    },
+    {
+      "id": "sun_little_umaah",
+      "date": "2026-10-11",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "timeLabel": null,
+      "title": "Little UMAAH",
+      "subtitle": null,
+      "room": "Holly + Butternut",
+      "category": "children",
+      "audience": [
+        "ages 0 to 5"
+      ],
+      "shortDescription": null,
+      "speakerNames": [
+        "UMAA"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        10
+      ]
+    },
+    {
+      "id": "sun_economic_forum",
+      "date": "2026-10-11",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "timeLabel": null,
+      "title": "UMAA Economic Forum: Zero to Millions",
+      "subtitle": "Founders, funders, and the nine figure companies being built right now.",
+      "room": "Main Conference Hall",
+      "category": "main session",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "Founders and investors explain how companies were built, then community founders pitch live to investors on stage.",
+      "speakerNames": [
+        "Tahir Ladha",
+        "Maitham Ladha",
+        "Mesum Ali",
+        "Murtaza Kazmi",
+        "Adeel Murtza",
+        "Zain Abdi"
+      ],
+      "moderatorNames": [
+        "Irteza Hussain"
+      ],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        8,
+        25
+      ]
+    },
+    {
+      "id": "sun_ballot",
+      "date": "2026-10-11",
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "timeLabel": null,
+      "title": "Your Name on the Ballot",
+      "subtitle": null,
+      "room": "Orchid + Violet",
+      "category": "workshop",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "A hands on clinic for anyone considering public office, covering filing, fundraising, supporters, messaging, and live practice.",
+      "speakerNames": [
+        "Alabbas Farhat",
+        "Akbar Ali",
+        "Ali Aljarrah"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        9,
+        34
+      ]
+    },
+    {
+      "id": "sun_sukooni_teens",
+      "date": "2026-10-11",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "timeLabel": null,
+      "title": "Sukooni Teens",
+      "subtitle": null,
+      "room": "Primrose",
+      "category": "youth",
+      "audience": [
+        "females only",
+        "ages 12 and up"
+      ],
+      "shortDescription": "Mentally strong Muslims: navigating friendships for young women.",
+      "speakerNames": [
+        "Sr. Anisa Diab"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        12,
+        14,
+        17
+      ]
+    },
+    {
+      "id": "sun_growing_greatness",
+      "date": "2026-10-11",
+      "startTime": "15:30",
+      "endTime": "17:30",
+      "timeLabel": null,
+      "title": "Growing into Greatness",
+      "subtitle": null,
+      "room": "Evergreen",
+      "category": "children",
+      "audience": [
+        "ages 7 to 11"
+      ],
+      "shortDescription": null,
+      "speakerNames": [
+        "Mullah Ali Fadhil"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        10
+      ]
+    },
+    {
+      "id": "sun_pakistans_moment",
+      "date": "2026-10-11",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "timeLabel": null,
+      "title": "Pakistan's Moment",
+      "subtitle": "Promise, pressure, and the road ahead.",
+      "room": "Main Conference Hall",
+      "category": "main session",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "A discussion of Pakistan’s internal pressures, external alliances, and what its standing means for minorities at home and the diaspora.",
+      "speakerNames": [
+        "Nasim Zehra",
+        "Shabbar Zaidi",
+        "Dr. Syed Wasif Rizvi"
+      ],
+      "moderatorNames": [
+        "Dr. Hassan Abbas"
+      ],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        8,
+        25
+      ]
+    },
+    {
+      "id": "sun_legacy_zainab",
+      "date": "2026-10-11",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "timeLabel": null,
+      "title": "The Legacy of Sayeda Zainab (AS)",
+      "subtitle": "Past, present, and our part in its future.",
+      "room": "Main Conference Hall",
+      "category": "main session",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "The custodian of the Damascus shrine joins a historian, a Sunni voice, and a poet on the legacy and future of Sayeda Zainab’s shrine.",
+      "speakerNames": [
+        "Sayed Mazen Al Mourtada",
+        "Dr. Noor Zaidi",
+        "Sheikh Umar Ramadan",
+        "Nouri Sardar"
+      ],
+      "moderatorNames": [
+        "Nermeen Arastu"
+      ],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        8,
+        27
+      ]
+    },
+    {
+      "id": "sun_centres_next",
+      "date": "2026-10-11",
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "timeLabel": null,
+      "title": "Who Runs Our Centres Next",
+      "subtitle": null,
+      "room": "Holly + Butternut",
+      "category": "workshop",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "A working session on succession, governance, mentorship, conflict, and handing centres to the generation raised in the West.",
+      "speakerNames": [
+        "Dr. Syed Mehdi Abbas Husaini",
+        "Br. Faraz Hasan Zaidi",
+        "Maulana Syed Muhammad Al Najafi",
+        "Dr. Ghulam Abbas"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [
+        "Ali Jafri"
+      ],
+      "notes": "For centre boards, trustees, and emerging leaders.",
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        9,
+        34
+      ]
+    },
+    {
+      "id": "sun_stand_dignity",
+      "date": "2026-10-11",
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "timeLabel": null,
+      "title": "Stand With Dignity",
+      "subtitle": null,
+      "room": "Orchid + Violet",
+      "category": "workshop",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "The team behind Stand With Dignity explains what worked across cities and how to run the campaign locally.",
+      "speakerNames": [
+        "Abraham Obeid",
+        "Mustafa AlSultany",
+        "Dr. Ali Nasrallah"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [
+        "Syed Rizvi"
+      ],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        9,
+        35
+      ]
+    },
+    {
+      "id": "sun_vision_action",
+      "date": "2026-10-11",
+      "startTime": "17:15",
+      "endTime": "18:45",
+      "timeLabel": null,
+      "title": "From Vision to Action",
+      "subtitle": null,
+      "room": "Primrose",
+      "category": "youth",
+      "audience": [
+        "ages 16 to 25"
+      ],
+      "shortDescription": "Part two of the leadership series: a design challenge turning Saturday’s simulation into a practical program or institution.",
+      "speakerNames": [
+        "Abeeha Hassan",
+        "Jafar Syed"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        9,
+        12,
+        21
+      ]
+    },
+    {
+      "id": "sun_blind_faith",
+      "date": "2026-10-11",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "timeLabel": null,
+      "title": "Do I have blind faith?",
+      "subtitle": null,
+      "room": "Holly + Butternut",
+      "category": "workshop",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "After Maghrib recorded live on belief examined rather than assumed, identity, moral decay, family, and what is worth passing on.",
+      "speakerNames": [
+        "Sheikh Azhar Nasser",
+        "Ahmed Gokal",
+        "Sayed Ali Radhawi"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        9,
+        35
+      ]
+    },
+    {
+      "id": "sun_closing_banquet",
+      "date": "2026-10-11",
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "timeLabel": null,
+      "title": "Closing Banquet",
+      "subtitle": "Shiʿi Theology Under Threat — Does it need reform?",
+      "room": "Main Conference Hall",
+      "category": "main session",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "Dinner followed by the keynote address on contemporary internal critiques of Shiʿi theology and the relationship between tradition and reform.",
+      "speakerNames": [
+        "Dr. Sayed Ammar Nakshawani"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": "Seating by ticket. Dinner served. Lecture follows.",
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        8,
+        29
+      ]
+    },
+    {
+      "id": "sun_mothers_lounge",
+      "date": "2026-10-11",
+      "startTime": null,
+      "endTime": null,
+      "timeLabel": "Open during the convention day",
+      "title": "Mothers Relaxation & Massage Chair Lounge",
+      "subtitle": null,
+      "room": "Jasmine",
+      "category": "special programme",
+      "audience": [
+        "ladies only"
+      ],
+      "shortDescription": "Walk in massage chairs. No registration and no fixed schedule.",
+      "speakerNames": [],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": true,
+      "sourcePages": [
+        13,
+        14
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "UMAA Annual Convention 2026",
+  "theme": "The Next Chapter: From Identity to Impact",
+  "startDate": "2026-10-09",
+  "endDate": "2026-10-11",
+  "timezone": "America/Toronto",
+  "venue": {
+    "name": "Hilton Toronto/Markham Suites Conference Centre & Spa",
+    "address": "8500 Warden Avenue, Markham, Ontario, L6G 1A5, Canada"
+  },
+  "brand": {
+    "primary": "#12306B",
+    "background": "#F5F0E4",
+    "accent": "#C98A4E",
+    "text": "#102552",
+    "logoAsset": "/assets/umaa_logo_source.png"
+  },
+  "missingBioText": "Bio not currently available"
+}

@@ -1,0 +1,18 @@
+{
+  "mapSource": {
+    "officialVenuePage": "https://www.hilton.com/en/hotels/yyzaphf-hilton-toronto-markham-suites-conference-centre-and-spa/events/",
+    "cventVenuePage": "https://www.cvent.com/venues/toronto/hotel/hilton-toronto-markham-suites-conference-centre-spa/venue-e4b852e2-be84-4cff-ac81-e69d3824c5d5",
+    "cventFloorPlanPdf": "https://custom.cvent.com/95cbca96509142b49afebbf7b0599659/files/rfp/e4b852e2be844cffac81e69d3824c5d5/fc1c795749a448e48768c55f7092c919.pdf",
+    "referenceMapPdf": "https://congres.acelf.ca/wp-content/uploads/2025/09/Plan-des-salle_Hilton-Markham.pdf"
+  },
+  "rooms": [
+    {"id":"main_conference_hall","displayName":"Main Conference Hall","mapLabel":"Conference Centre","level":"Conference Centre","featured":true},
+    {"id":"orchid_violet","displayName":"Orchid + Violet","mapLabel":"Violet / Orchid","level":"2"},
+    {"id":"holly_butternut","displayName":"Holly + Butternut","mapLabel":"Butternut / Holly","level":"2"},
+    {"id":"maple","displayName":"Maple","mapLabel":"Maple","level":"2"},
+    {"id":"primrose","displayName":"Primrose","mapLabel":"Primrose","level":"2"},
+    {"id":"evergreen","displayName":"Evergreen","mapLabel":"Evergreen","level":"2"},
+    {"id":"jasmine","displayName":"Jasmine","mapLabel":"Jasmine","level":"2"},
+    {"id":"orchid","displayName":"Orchid","mapLabel":"Orchid","level":"2"}
+  ]
+}

@@ -1,0 +1,2 @@
+import Link from 'next/link'; import { people } from '@/lib/data';
+export default function Speakers(){const list=people();return <div id="content" className="container"><section className="hero compact"><p className="eyebrow">Directory</p><h1>Speakers & presenters</h1><p>Every program participant, with appearances and available biographies.</p></section><div className="directory">{list.map(p=><Link key={p.slug} href={`/speakers/${p.slug}`}><b>{p.name}</b><span>{p.matchStatus==='confirmed'?'Biography available':'Biography not currently available'}</span></Link>)}</div></div>}

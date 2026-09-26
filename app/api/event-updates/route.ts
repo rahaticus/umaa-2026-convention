@@ -1,0 +1,1 @@
+export async function GET(){return Response.json({announcements:[],scheduleOverrides:[],source:'static-fallback',updatedAt:new Date().toISOString()},{headers:{'Cache-Control':'public, s-maxage=60, stale-while-revalidate=300'}})}
