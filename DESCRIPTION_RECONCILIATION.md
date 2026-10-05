@@ -1,41 +1,17 @@
-# UMAA 2026 description reconciliation (development only)
+# UMAA 2026 final program reconciliation
 
-Full PDF reviewed: 36 pages. Canonical occurrences reviewed: 50. No IDs changed.
+Source: Final Convention 2026 Program.pdf, 52 pages, received October 5, 2026.
 
-| Result | Count |
-|---|---:|
-| Detailed official write-up imported | 38 |
-| Brief schedule material only | 1 |
-| No substantive official description | 11 |
-| Ambiguous matches | 0 |
-| Schedule discrepancies requiring review | 0 |
+The updated app contains 53 daily event occurrences. Existing matching events retain their IDs, including `sun_blind_faith`, which now occurs on Saturday. Retaining that internal ID lets saved itineraries follow the session to its new date.
 
-## Detailed write-ups imported
+Removed obsolete occurrences: The Politics of Influence and Sunday morning Islamic Jeopardy. Added Rob Turfe’s Sunday podcast, The Conversation Architect, and three daily research showcase entries. Posters are displayed throughout the weekend; only Sunday presentations have exact times, 13:00 to 15:00.
 
-`fri_muslim_families_ai`, `fri_unfiltered`, `fri_blueprint`, `fri_mothers_lounge`, `sat_fajr_nahjul_balagha`, `sat_movement_heal`, `sat_al_baqee`, `sat_future_shia_north_america`, `sat_shia_survived`, `sat_youth_ummah_builders`, `sat_masjid_city_hall`, `sat_women_ahlul_bayt`, `sat_america_israel_iran`, `sat_belief_action_zahra_trust`, `sat_beyond_witnessing`, `sat_connecting_imam`, `sat_fashion_archive`, `sat_politics_influence`, `sat_mothers_lounge`, `sun_fajr_nahjul_balagha`, `sun_habib`, `sun_academic_planning`, `sun_strength_all_ages`, `sun_academic_institutions`, `sun_raising_generation`, `sun_shiism_contexts`, `sun_palestine_action`, `sun_economic_forum`, `sun_ballot`, `sun_sukooni_teens`, `sun_pakistans_moment`, `sun_legacy_zainab`, `sun_centres_next`, `sun_stand_dignity`, `sun_vision_action`, `sun_blind_faith`, `sun_closing_banquet`, `sun_mothers_lounge`.
+Updated movement classes, youth simulation, Zahra Trust, centre succession, and Stand With Dignity times. Updated Sunday rooms for HABIB IMI, children, academic planning, Shiism in Contexts, Palestine, ballot workshop, and Sukooni Teens. Added Birch and Trillium Boardroom without inventing floor locations.
 
-The detailed programme sections used were the Friday-night, youth, main-session, keynote, workshop, ladies, special-programme and closing sections (pages 13–35). The canonical full-description map is `data/session_descriptions.ts`.
+Children’s age groups now read 0 through 5 and 6 through 11. Drop off rules and separate IMI registration are included. Rob Turfe’s official biography is added.
 
-## Brief schedule material only
+Detailed descriptions are retained where the supplied program matches, replaced where its text changes, and added for new sessions. Brief child programme eligibility descriptions derive from page 13. Source page references now point to this edition. No public provenance labels are introduced.
 
-| Canonical ID | Title | Note |
-|---|---|---|
-| `fri_opening_ceremony` | Opening Ceremony | Detailed page supplies participant/run-of-show information but no substantive session write-up. |
+Where main-session summaries call Rahat Husain or Dr. Sayeda Elhaam Jawadi moderators, the detailed page 21 explicitly calls them emcees; the detailed roles are retained. The morning future panel no longer lists Dr. Mehdi Husaini as moderator; the hostile-rule summary still does. Detailed workshop times govern where headings are abbreviated.
 
-## No substantive description
-
-| Canonical ID | Title |
-|---|---|
-| `fri_once_upon_ayah_under6` | Once Upon an Āyah |
-| `fri_rooted_together_7_11` | Rooted Together |
-| `sat_once_upon_ayah_under6` | Once Upon an Āyah |
-| `sat_rooted_together_7_11` | Rooted Together |
-| `sat_once_upon_ayah_under6_pm` | Once Upon an Āyah |
-| `sat_growing_greatness` | Growing into Greatness |
-| `sat_grand_remembrance` | Grand Night of Remembrance |
-| `sun_rooted_together_under6` | Rooted Together |
-| `sun_islamic_jeopardy` | Islamic Jeopardy |
-| `sun_little_umaah` | Little UMAAH |
-| `sun_growing_greatness` | Growing into Greatness |
-
-No ambiguous title-to-write-up matches were found. Repeated programme listings were attached only to their existing canonical IDs.
+All schedule views, search, session detail, speaker appearances, room schedules, saved itineraries, sharing, and calendar exports use the shared canonical session data. Offline cache version increments to v5.

@@ -1,4 +1,4 @@
-const CACHE='umaa-2026-v4';
+const CACHE='umaa-2026-v5';
 const CORE=['/schedule','/speakers','/venue','/my-schedule','/umaa-logo.png'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim())));

@@ -1,21 +1,15 @@
-# UMAA 2026 data validation report
+# UMAA program validation
 
-Source reviewed: `UMAA_2026_Final_Program.pdf` (36 pages), `Speaker_Bios.xlsx`, and supplied JSON reconciliation data.
+Final programme reconciled October 5, 2026.
 
-## Current source inventory
+- 53 unique daily occurrence IDs and unique session routes.
+- All dates fall on October 9, 10, or 11, 2026.
+- All exact time intervals are valid in America/Toronto.
+- Nine children’s occurrences, with revised 0 to 5 and 6 to 11 age groups.
+- Seven daily ladies-only occurrences across five programmes.
+- Every scheduled room resolves to canonical room metadata.
+- New Rob Turfe biography and appearances resolve.
+- Existing IDs preserved for continuing sessions; removed events are filtered out of saved itineraries.
+- Updated programme tests cover moved, removed, added, timed, room, registration, and eligibility changes.
 
-- Sessions: 50 (from the supplied program seed)
-- Biography source rows: 62
-- Program participant pages: generated from every named individual in session roles; organizations are excluded from person pages.
-- Stable session IDs and generated slugs: no duplicates found by automated check.
-- Each supplied session has source page references. Exact-time omissions remain source-labelled and are never assigned a clock time.
-
-## Biography identity policy
-
-Confirmed mappings in `speaker_aliases_review.json` receive the supplied workbook biography. Exact program/workbook names receive their workbook biography. Probable and unmatched mappings are deliberately not joined and show exactly `Bio not currently available`.
-
-Human review remains required for the probable matches listed in `data/speaker_aliases_review.json`, including Rizwan Khalfan, Maulana Syed Muhammad Al Najafi, Sr. Naba Bahar, Sayed Mehboob, Mullah Nizar Qatari, Saarah Panju, Dr. Syed Mehdi Abbas Husaini, and Syed Rizvi. The unmatched names listed in that source remain without biographies.
-
-## Launch checks
-
-Run `pnpm test` to recheck IDs, slugs, dates, intervals, and source pages after any data update. Review the rendered program against the PDF before publishing content edits.
+Verification: all 21 tests pass; production build and TypeScript checks pass. HTTP checks pass for all 53 session detail routes, five changed calendar exports, Rob Turfe biography and appearances, and the updates page. Browser QA is unavailable because Chromium download could not complete.

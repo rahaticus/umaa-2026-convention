@@ -6,13 +6,66 @@
     "referenceMapPdf": "https://congres.acelf.ca/wp-content/uploads/2025/09/Plan-des-salle_Hilton-Markham.pdf"
   },
   "rooms": [
-    {"id":"main_conference_hall","displayName":"Main Conference Hall","mapLabel":"Conference Centre","level":"Conference Centre","featured":true},
-    {"id":"orchid_violet","displayName":"Orchid + Violet","mapLabel":"Violet / Orchid","level":"2"},
-    {"id":"holly_butternut","displayName":"Holly + Butternut","mapLabel":"Butternut / Holly","level":"2"},
-    {"id":"maple","displayName":"Maple","mapLabel":"Maple","level":"2"},
-    {"id":"primrose","displayName":"Primrose","mapLabel":"Primrose","level":"2"},
-    {"id":"evergreen","displayName":"Evergreen","mapLabel":"Evergreen","level":"2"},
-    {"id":"jasmine","displayName":"Jasmine","mapLabel":"Jasmine","level":"2"},
-    {"id":"orchid","displayName":"Orchid","mapLabel":"Orchid","level":"2"}
+    {
+      "id": "main_conference_hall",
+      "displayName": "Main Conference Hall",
+      "mapLabel": "Conference Centre",
+      "level": "Conference Centre",
+      "featured": true
+    },
+    {
+      "id": "orchid_violet",
+      "displayName": "Orchid + Violet",
+      "mapLabel": "Violet / Orchid",
+      "level": "2"
+    },
+    {
+      "id": "holly_butternut",
+      "displayName": "Holly + Butternut",
+      "mapLabel": "Butternut / Holly",
+      "level": "2"
+    },
+    {
+      "id": "maple",
+      "displayName": "Maple",
+      "mapLabel": "Maple",
+      "level": "2"
+    },
+    {
+      "id": "primrose",
+      "displayName": "Primrose",
+      "mapLabel": "Primrose",
+      "level": "2"
+    },
+    {
+      "id": "evergreen",
+      "displayName": "Evergreen",
+      "mapLabel": "Evergreen",
+      "level": "2"
+    },
+    {
+      "id": "jasmine",
+      "displayName": "Jasmine",
+      "mapLabel": "Jasmine",
+      "level": "2"
+    },
+    {
+      "id": "orchid",
+      "displayName": "Orchid",
+      "mapLabel": "Orchid",
+      "level": "2"
+    },
+    {
+      "id": "trillium_boardroom",
+      "displayName": "Trillium Boardroom",
+      "mapLabel": "Trillium Boardroom",
+      "level": "Location to be confirmed"
+    },
+    {
+      "id": "birch",
+      "displayName": "Birch",
+      "mapLabel": "Birch",
+      "level": "Location to be confirmed"
+    }
   ]
 }

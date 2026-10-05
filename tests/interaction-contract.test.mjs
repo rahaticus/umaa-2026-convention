@@ -35,7 +35,7 @@ test('appearance uses one direct persisted light/dark toggle with light as the u
   assert.match(control, /useLayoutEffect/);
   assert.match(control, /stored === 'dark' \|\| stored === 'light'/);
   assert.match(control, /: 'light'/);
-  assert.doesNotMatch(control, /matchMedia|prefers-color-scheme|system|auto|device/i);
+  assert.doesNotMatch(control.replace(/\/\/[^\n]*/g, ''), /matchMedia|prefers-color-scheme|system|auto|device/i);
   assert.doesNotMatch(layout, /matchMedia|prefers-color-scheme/i);
   assert.doesNotMatch(styles, /appearance-menu/);
 });

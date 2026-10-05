@@ -13,15 +13,15 @@ const normalize = value => {
 const toggle = (saved, id) => saved.includes(id) ? saved.filter(value => value !== id) : [...saved, id];
 const chrono = (a, b) => `${a.date}|${a.startTime || '99:99'}|${a.title}|${a.id}`.localeCompare(`${b.date}|${b.startTime || '99:99'}|${b.title}|${b.id}`);
 
-test('all 50 canonical occurrences can save, persist, resolve, and remove independently', () => {
-  assert.equal(ids.length, 50);
-  assert.equal(known.size, 50);
+test('all 53 canonical occurrences can save, persist, resolve, and remove independently', () => {
+  assert.equal(ids.length, 53);
+  assert.equal(known.size, 53);
   let saved = [];
   for (const id of ids) saved = toggle(saved, id);
   const persisted = JSON.stringify({ version: 1, ids: saved });
   const restored = normalize(JSON.parse(persisted));
   assert.deepEqual(restored, ids);
-  assert.equal(seed.sessions.filter(session => restored.includes(session.id)).length, 50);
+  assert.equal(seed.sessions.filter(session => restored.includes(session.id)).length, 53);
   for (const id of ids) saved = toggle(saved, id);
   assert.deepEqual(saved, []);
 });
@@ -34,7 +34,7 @@ test('favorite migration preserves valid legacy IDs, rejects corruption, and pre
 
 test('clearing all canonical IDs serializes an empty persisted itinerary', () => {
   const persisted = JSON.stringify({ version: 1, ids });
-  assert.equal(normalize(JSON.parse(persisted)).length, 50);
+  assert.equal(normalize(JSON.parse(persisted)).length, 53);
   const cleared = JSON.stringify({ version: 1, ids: [] });
   assert.deepEqual(normalize(JSON.parse(cleared)), []);
   assert.equal(seed.sessions.filter(session => normalize(JSON.parse(cleared)).includes(session.id)).length, 0);
@@ -42,7 +42,7 @@ test('clearing all canonical IDs serializes an empty persisted itinerary', () =>
 
 test('My Schedule source resolves every saved ID and sorts by date, time, title, then ID', () => {
   const ordered = [...seed.sessions].sort(chrono);
-  assert.equal(ordered.length, 50);
+  assert.equal(ordered.length, 53);
   assert.ok(ordered.every((session, index) => index === 0 || chrono(ordered[index - 1], session) <= 0));
   assert.deepEqual([...new Set(ordered.map(session => session.id))].sort(), [...ids].sort());
 });

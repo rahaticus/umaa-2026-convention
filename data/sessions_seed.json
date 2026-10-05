@@ -1,5 +1,5 @@
 {
-  "source": "UMAA 2026 Final Program.pdf",
+  "source": "Final Convention 2026 Program.pdf",
   "timezone": "America/Toronto",
   "missingExactTimePolicy": "Do not invent a time. Display the timeLabel from the source and sort in a separate Anytime or Morning section.",
   "sessions": [
@@ -16,17 +16,17 @@
       "audience": [
         "ages 0 to 5"
       ],
-      "shortDescription": null,
+      "shortDescription": "Children’s programme for ages 0 to 5. Ages 0 to 3 stay with parents. Ages 4 to 5 may drop off; parents are welcome.",
       "speakerNames": [
         "Aqeelah Publishing"
       ],
       "moderatorNames": [],
       "facilitatorNames": [],
       "emceeNames": [],
-      "notes": null,
+      "notes": "Ages 0 to 3 stay with parents. Ages 4 to 5 may drop off; parents are welcome.",
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        10
+        13
       ]
     },
     {
@@ -40,19 +40,74 @@
       "room": "Evergreen",
       "category": "children",
       "audience": [
-        "ages 7 to 11"
+        "ages 6 to 11"
       ],
-      "shortDescription": null,
+      "shortDescription": "Children’s programme for ages 6 to 11. Parents may drop off or stay.",
       "speakerNames": [
         "Al-Kisa Foundation"
       ],
       "moderatorNames": [],
       "facilitatorNames": [],
       "emceeNames": [],
+      "notes": "Parents may drop off. Parents are welcome to stay.",
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        13
+      ]
+    },
+    {
+      "id": "fri_blueprint",
+      "date": "2026-10-09",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "timeLabel": null,
+      "title": "The Blueprint",
+      "subtitle": "Balancing friendship, academics, and personal growth.",
+      "room": "Primrose",
+      "category": "youth",
+      "audience": [
+        "males only",
+        "ages 12 and up"
+      ],
+      "shortDescription": "Sheikh Azhar Nasser leads a session for young men ages 12 and up, moderated by Dr. Ali Nasrallah. Participants leave with a written framework for the year ahead.",
+      "speakerNames": [
+        "Sheikh Azhar Nasser"
+      ],
+      "moderatorNames": [
+        "Dr. Ali Nasrallah"
+      ],
+      "facilitatorNames": [],
+      "emceeNames": [],
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        10
+        14
+      ]
+    },
+    {
+      "id": "fri_muslim_families_ai",
+      "date": "2026-10-09",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "timeLabel": null,
+      "title": "The Next Chapter for Muslim Families",
+      "subtitle": "Thriving in the age of AI.",
+      "room": "Maple",
+      "category": "workshop",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "A working session on sukoon and what can be protected when the device is faster than the parent.",
+      "speakerNames": [],
+      "moderatorNames": [],
+      "facilitatorNames": [
+        "Sr. Marzia Hassan"
+      ],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        18
       ]
     },
     {
@@ -86,64 +141,7 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        5,
-        15
-      ]
-    },
-    {
-      "id": "fri_muslim_families_ai",
-      "date": "2026-10-09",
-      "startTime": "19:30",
-      "endTime": "21:00",
-      "timeLabel": null,
-      "title": "The Next Chapter for Muslim Families",
-      "subtitle": "Thriving in the age of AI.",
-      "room": "Maple",
-      "category": "workshop",
-      "audience": [
-        "all"
-      ],
-      "shortDescription": "A working session on sukoon and what can be protected when the device is faster than the parent.",
-      "speakerNames": [],
-      "moderatorNames": [],
-      "facilitatorNames": [
-        "Sr. Marzia Hassan"
-      ],
-      "emceeNames": [],
-      "notes": null,
-      "continuousOrUnscheduled": false,
-      "sourcePages": [
-        15
-      ]
-    },
-    {
-      "id": "fri_blueprint",
-      "date": "2026-10-09",
-      "startTime": "19:30",
-      "endTime": "21:00",
-      "timeLabel": null,
-      "title": "The Blueprint",
-      "subtitle": "Balancing friendship, academics, and personal growth.",
-      "room": "Primrose",
-      "category": "youth",
-      "audience": [
-        "males only",
-        "ages 12 and up"
-      ],
-      "shortDescription": "An interactive series for young men on friendships, school, confidence, critical thinking, and self esteem.",
-      "speakerNames": [
-        "Sheikh Azhar Nasser"
-      ],
-      "moderatorNames": [
-        "Dr. Ali Nasrallah"
-      ],
-      "facilitatorNames": [],
-      "emceeNames": [],
-      "notes": null,
-      "continuousOrUnscheduled": false,
-      "sourcePages": [
-        12,
-        17
+        18
       ]
     },
     {
@@ -173,9 +171,7 @@
       "notes": "Session brought to UMAA by Imam Hussein TV.",
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        5,
-        12,
-        15
+        18
       ]
     },
     {
@@ -199,94 +195,39 @@
       "notes": null,
       "continuousOrUnscheduled": true,
       "sourcePages": [
-        13,
-        14
+        16
       ]
     },
     {
-      "id": "sat_fajr_nahjul_balagha",
-      "date": "2026-10-10",
+      "id": "fri_research_showcase",
+      "date": "2026-10-09",
       "startTime": null,
       "endTime": null,
-      "timeLabel": "Morning, exact time not specified in source",
-      "title": "Fajr and Nahjul Balagha",
+      "timeLabel": "Posters on display throughout the weekend",
+      "title": "Global Youth Initiative: Research Showcase",
       "subtitle": null,
-      "room": "Main Conference Hall",
+      "room": "Birch",
       "category": "special programme",
       "audience": [
+        "college and graduate students",
         "all"
       ],
-      "shortDescription": "Morning reflection followed by a reading circle on Imam Ali’s sermons. Breakfast is served after Fajr.",
-      "speakerNames": [
-        "Sayed Mehboob",
-        "Jarry Zaidi"
-      ],
+      "shortDescription": "Research posters from college and graduate students are on display throughout the weekend. Presenters share their abstracts and research on Sunday from 1:00 to 3:00 PM in Birch. Winners will be announced.",
+      "speakerNames": [],
       "moderatorNames": [],
       "facilitatorNames": [],
       "emceeNames": [],
-      "notes": null,
+      "notes": "Posters on display throughout the weekend. Research presentations Sunday 1:00 to 3:00 PM in Birch.",
       "continuousOrUnscheduled": true,
       "sourcePages": [
-        13
-      ]
-    },
-    {
-      "id": "sat_once_upon_ayah_under6",
-      "date": "2026-10-10",
-      "startTime": "10:00",
-      "endTime": "12:00",
-      "timeLabel": null,
-      "title": "Once Upon an Āyah",
-      "subtitle": null,
-      "room": "Holly + Butternut",
-      "category": "children",
-      "audience": [
-        "ages 0 to 5"
-      ],
-      "shortDescription": null,
-      "speakerNames": [
-        "Aqeelah Publishing"
-      ],
-      "moderatorNames": [],
-      "facilitatorNames": [],
-      "emceeNames": [],
-      "notes": null,
-      "continuousOrUnscheduled": false,
-      "sourcePages": [
-        10
-      ]
-    },
-    {
-      "id": "sat_rooted_together_7_11",
-      "date": "2026-10-10",
-      "startTime": "10:00",
-      "endTime": "12:00",
-      "timeLabel": null,
-      "title": "Rooted Together",
-      "subtitle": null,
-      "room": "Evergreen",
-      "category": "children",
-      "audience": [
-        "ages 7 to 11"
-      ],
-      "shortDescription": null,
-      "speakerNames": [
-        "Al-Kisa Foundation"
-      ],
-      "moderatorNames": [],
-      "facilitatorNames": [],
-      "emceeNames": [],
-      "notes": null,
-      "continuousOrUnscheduled": false,
-      "sourcePages": [
-        10
+        16
       ]
     },
     {
       "id": "sat_movement_heal",
       "date": "2026-10-10",
-      "startTime": "10:00",
-      "endTime": "11:00",
+      "startTime": "09:00",
+      "endTime": "10:00",
       "timeLabel": null,
       "title": "How Movement Can Heal",
       "subtitle": null,
@@ -305,8 +246,7 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        13,
-        14
+        16
       ]
     },
     {
@@ -330,16 +270,65 @@
         "Sheikh Azhar Nasser",
         "Dr. Hassan Abbas"
       ],
-      "moderatorNames": [
-        "Dr. Mehdi Husaini"
-      ],
+      "moderatorNames": [],
       "facilitatorNames": [],
       "emceeNames": [],
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        5,
-        18
+        19
+      ]
+    },
+    {
+      "id": "sat_once_upon_ayah_under6",
+      "date": "2026-10-10",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "timeLabel": null,
+      "title": "Once Upon an Āyah",
+      "subtitle": null,
+      "room": "Holly + Butternut",
+      "category": "children",
+      "audience": [
+        "ages 0 to 5"
+      ],
+      "shortDescription": "Children’s programme for ages 0 to 5. Ages 0 to 3 stay with parents. Ages 4 to 5 may drop off; parents are welcome.",
+      "speakerNames": [
+        "Aqeelah Publishing"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": "Ages 0 to 3 stay with parents. Ages 4 to 5 may drop off; parents are welcome.",
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        13
+      ]
+    },
+    {
+      "id": "sat_rooted_together_7_11",
+      "date": "2026-10-10",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "timeLabel": null,
+      "title": "Rooted Together",
+      "subtitle": null,
+      "room": "Evergreen",
+      "category": "children",
+      "audience": [
+        "ages 6 to 11"
+      ],
+      "shortDescription": "Children’s programme for ages 6 to 11. Parents may drop off or stay.",
+      "speakerNames": [
+        "Al-Kisa Foundation"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": "Parents may drop off. Parents are welcome to stay.",
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        13
       ]
     },
     {
@@ -370,8 +359,7 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        6,
-        30
+        26
       ]
     },
     {
@@ -399,62 +387,7 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        5,
-        18
-      ]
-    },
-    {
-      "id": "sat_once_upon_ayah_under6_pm",
-      "date": "2026-10-10",
-      "startTime": "15:00",
-      "endTime": "17:00",
-      "timeLabel": null,
-      "title": "Once Upon an Āyah",
-      "subtitle": null,
-      "room": "Holly + Butternut",
-      "category": "children",
-      "audience": [
-        "ages 0 to 5"
-      ],
-      "shortDescription": null,
-      "speakerNames": [
-        "Aqeelah Publishing"
-      ],
-      "moderatorNames": [],
-      "facilitatorNames": [],
-      "emceeNames": [],
-      "notes": null,
-      "continuousOrUnscheduled": false,
-      "sourcePages": [
-        10
-      ]
-    },
-    {
-      "id": "sat_youth_ummah_builders",
-      "date": "2026-10-10",
-      "startTime": "15:00",
-      "endTime": "16:30",
-      "timeLabel": null,
-      "title": "Youth Ummah Builders",
-      "subtitle": null,
-      "room": "Primrose",
-      "category": "youth",
-      "audience": [
-        "ages 16 to 25"
-      ],
-      "shortDescription": "A leadership simulation in which participants form councils, set priorities, and work through real community problems.",
-      "speakerNames": [
-        "Abeeha Hassan",
-        "Jafar Syed"
-      ],
-      "moderatorNames": [],
-      "facilitatorNames": [],
-      "emceeNames": [],
-      "notes": null,
-      "continuousOrUnscheduled": false,
-      "sourcePages": [
-        12,
-        21
+        19
       ]
     },
     {
@@ -485,8 +418,59 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        5,
-        20
+        21
+      ]
+    },
+    {
+      "id": "sat_once_upon_ayah_under6_pm",
+      "date": "2026-10-10",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "timeLabel": null,
+      "title": "Once Upon an Āyah",
+      "subtitle": null,
+      "room": "Holly + Butternut",
+      "category": "children",
+      "audience": [
+        "ages 0 to 5"
+      ],
+      "shortDescription": "Children’s programme for ages 0 to 5. Ages 0 to 3 stay with parents. Ages 4 to 5 may drop off; parents are welcome.",
+      "speakerNames": [
+        "Aqeelah Publishing"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": "Ages 0 to 3 stay with parents. Ages 4 to 5 may drop off; parents are welcome.",
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        13
+      ]
+    },
+    {
+      "id": "sat_growing_greatness",
+      "date": "2026-10-10",
+      "startTime": "15:30",
+      "endTime": "17:30",
+      "timeLabel": null,
+      "title": "Growing into Greatness",
+      "subtitle": null,
+      "room": "Evergreen",
+      "category": "children",
+      "audience": [
+        "ages 6 to 11"
+      ],
+      "shortDescription": "Children’s programme for ages 6 to 11. Parents may drop off or stay.",
+      "speakerNames": [
+        "Mullah Ali Fadhil"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": "Parents may drop off. Parents are welcome to stay.",
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        13
       ]
     },
     {
@@ -512,35 +496,35 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        6,
-        14,
-        31
+        27
       ]
     },
     {
-      "id": "sat_growing_greatness",
+      "id": "sat_youth_ummah_builders",
       "date": "2026-10-10",
       "startTime": "15:30",
-      "endTime": "17:30",
+      "endTime": "17:00",
       "timeLabel": null,
-      "title": "Growing into Greatness",
+      "title": "Youth Ummah Builders",
       "subtitle": null,
-      "room": "Evergreen",
-      "category": "children",
+      "room": "Primrose",
+      "category": "youth",
       "audience": [
-        "ages 7 to 11"
+        "ages 16 to 25"
       ],
-      "shortDescription": null,
+      "shortDescription": "A leadership simulation in which participants form councils, set priorities, and work through real community problems.",
       "speakerNames": [
-        "Mullah Ali Fadhil"
+        "Jafar Syed"
       ],
-      "moderatorNames": [],
+      "moderatorNames": [
+        "Abeeha Hassan"
+      ],
       "facilitatorNames": [],
       "emceeNames": [],
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        10
+        23
       ]
     },
     {
@@ -568,18 +552,17 @@
       "notes": "In partnership with Imam Hussein TV for selected segments.",
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        5,
-        23
+        24
       ]
     },
     {
       "id": "sat_belief_action_zahra_trust",
       "date": "2026-10-10",
-      "startTime": "17:00",
-      "endTime": "18:30",
+      "startTime": "17:15",
+      "endTime": "18:45",
       "timeLabel": null,
       "title": "Belief into Action: Zahra Trust",
-      "subtitle": null,
+      "subtitle": "Proof of impact on the frontlines.",
       "room": "Orchid + Violet",
       "category": "workshop",
       "audience": [
@@ -597,8 +580,7 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        6,
-        31
+        27
       ]
     },
     {
@@ -614,7 +596,7 @@
       "audience": [
         "all"
       ],
-      "shortDescription": "Clinicians who worked in Palestine and Lebanon discuss what they saw and how professional expertise can become service.",
+      "shortDescription": "Healthcare professionals share experiences from medical missions to Palestine and Lebanon and discuss medical relief, advocacy, and professional service.",
       "speakerNames": [
         "Dr. Adam Fahs, MD",
         "Dr. Saleh Al-Ameen, MD",
@@ -628,8 +610,7 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        5,
-        20
+        21
       ]
     },
     {
@@ -660,8 +641,7 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        6,
-        30
+        26
       ]
     },
     {
@@ -689,26 +669,25 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        6,
-        32
+        28
       ]
     },
     {
-      "id": "sat_politics_influence",
+      "id": "sun_blind_faith",
       "date": "2026-10-10",
       "startTime": "19:30",
       "endTime": "21:00",
       "timeLabel": null,
-      "title": "The Politics of Influence",
+      "title": "Do I have blind faith?",
       "subtitle": null,
       "room": "Holly + Butternut",
       "category": "workshop",
       "audience": [
         "all"
       ],
-      "shortDescription": "After Maghrib recorded live on power, media, public opinion, faith, PACs, lobbying, and how influence is built.",
+      "shortDescription": "After Maghrib recorded live on belief examined rather than assumed, identity, moral decay, family, and what is worth passing on.",
       "speakerNames": [
-        "Akbar Ali",
+        "Sheikh Azhar Nasser",
         "Ahmed Gokal",
         "Sayed Ali Radhawi"
       ],
@@ -718,8 +697,8 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        6,
-        32
+        8,
+        28
       ]
     },
     {
@@ -748,7 +727,31 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        5
+        7
+      ]
+    },
+    {
+      "id": "sat_fajr_nahjul_balagha",
+      "date": "2026-10-10",
+      "startTime": null,
+      "endTime": null,
+      "timeLabel": "Morning · exact time not specified",
+      "title": "Fajr and Nahjul Balagha",
+      "subtitle": null,
+      "room": "Main Conference Hall",
+      "category": "special programme",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "Morning reflection followed by a reading circle on Imam Ali’s sermons. Breakfast is served after Fajr.",
+      "speakerNames": [],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": true,
+      "sourcePages": [
+        16
       ]
     },
     {
@@ -772,35 +775,32 @@
       "notes": null,
       "continuousOrUnscheduled": true,
       "sourcePages": [
-        13,
-        14
+        16
       ]
     },
     {
-      "id": "sun_fajr_nahjul_balagha",
-      "date": "2026-10-11",
+      "id": "sat_research_showcase",
+      "date": "2026-10-10",
       "startTime": null,
       "endTime": null,
-      "timeLabel": "Morning, exact time not specified in source",
-      "title": "Fajr and Nahjul Balagha",
+      "timeLabel": "Posters on display throughout the weekend",
+      "title": "Global Youth Initiative: Research Showcase",
       "subtitle": null,
-      "room": "Main Conference Hall",
+      "room": "Birch",
       "category": "special programme",
       "audience": [
+        "college and graduate students",
         "all"
       ],
-      "shortDescription": "Morning reflection followed by a reading circle on Imam Ali’s sermons. Breakfast is served after Fajr.",
-      "speakerNames": [
-        "Sayed Mehboob",
-        "Jarry Zaidi"
-      ],
+      "shortDescription": "Research posters from college and graduate students are on display throughout the weekend. Presenters share their abstracts and research on Sunday from 1:00 to 3:00 PM in Birch. Winners will be announced.",
+      "speakerNames": [],
       "moderatorNames": [],
       "facilitatorNames": [],
       "emceeNames": [],
-      "notes": null,
+      "notes": "Posters on display throughout the weekend. Research presentations Sunday 1:00 to 3:00 PM in Birch.",
       "continuousOrUnscheduled": true,
       "sourcePages": [
-        13
+        16
       ]
     },
     {
@@ -809,12 +809,12 @@
       "startTime": "09:00",
       "endTime": "16:30",
       "timeLabel": null,
-      "title": "HABIB",
+      "title": "HABIB IMI Conference",
       "subtitle": null,
-      "room": "Maple",
+      "room": "Orchid + Violet",
       "category": "special programme",
       "audience": [
-        "all"
+        "healthcare providers and trainees"
       ],
       "shortDescription": "A day long continuing medical education track for healthcare providers and trainees. CME credit runs alongside the convention.",
       "speakerNames": [
@@ -823,100 +823,21 @@
       "moderatorNames": [],
       "facilitatorNames": [],
       "emceeNames": [],
-      "notes": null,
+      "notes": "Separate registration required at www.imicanada.org. No additional fee.",
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        13
-      ]
-    },
-    {
-      "id": "sun_rooted_together_under6",
-      "date": "2026-10-11",
-      "startTime": "10:00",
-      "endTime": "12:00",
-      "timeLabel": null,
-      "title": "Rooted Together",
-      "subtitle": null,
-      "room": "Holly + Butternut",
-      "category": "children",
-      "audience": [
-        "ages 0 to 5"
-      ],
-      "shortDescription": null,
-      "speakerNames": [
-        "Al-Kisa Foundation"
-      ],
-      "moderatorNames": [],
-      "facilitatorNames": [],
-      "emceeNames": [],
-      "notes": null,
-      "continuousOrUnscheduled": false,
-      "sourcePages": [
-        10
-      ]
-    },
-    {
-      "id": "sun_islamic_jeopardy",
-      "date": "2026-10-11",
-      "startTime": "10:00",
-      "endTime": "12:00",
-      "timeLabel": null,
-      "title": "Islamic Jeopardy",
-      "subtitle": null,
-      "room": "Evergreen",
-      "category": "children",
-      "audience": [
-        "ages 7 to 11"
-      ],
-      "shortDescription": null,
-      "speakerNames": [
-        "Jeopardy × UMAA"
-      ],
-      "moderatorNames": [],
-      "facilitatorNames": [],
-      "emceeNames": [],
-      "notes": null,
-      "continuousOrUnscheduled": false,
-      "sourcePages": [
-        10
-      ]
-    },
-    {
-      "id": "sun_academic_planning",
-      "date": "2026-10-11",
-      "startTime": "10:00",
-      "endTime": "11:30",
-      "timeLabel": null,
-      "title": "Academic Planning",
-      "subtitle": null,
-      "room": "Primrose",
-      "category": "youth",
-      "audience": [
-        "grades 8 to 12",
-        "parents and families"
-      ],
-      "shortDescription": "A project based session on applications, scholarships, financial aid, course selection, fit, and cost for students and parents together.",
-      "speakerNames": [
-        "Dr. Qunoot Almecci"
-      ],
-      "moderatorNames": [],
-      "facilitatorNames": [],
-      "emceeNames": [],
-      "notes": null,
-      "continuousOrUnscheduled": false,
-      "sourcePages": [
-        12
+        16
       ]
     },
     {
       "id": "sun_strength_all_ages",
       "date": "2026-10-11",
-      "startTime": "10:00",
-      "endTime": "11:00",
+      "startTime": "09:00",
+      "endTime": "10:00",
       "timeLabel": null,
       "title": "Strength for All Ages",
       "subtitle": null,
-      "room": "Orchid",
+      "room": "Maple",
       "category": "ladies programme",
       "audience": [
         "ladies only"
@@ -931,8 +852,7 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        13,
-        14
+        16
       ]
     },
     {
@@ -963,8 +883,89 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        8,
-        24
+        29
+      ]
+    },
+    {
+      "id": "sun_academic_planning",
+      "date": "2026-10-11",
+      "startTime": "10:00",
+      "endTime": "11:30",
+      "timeLabel": null,
+      "title": "Academic Planning",
+      "subtitle": null,
+      "room": "Trillium Boardroom",
+      "category": "youth",
+      "audience": [
+        "grades 8 to 12",
+        "parents and families"
+      ],
+      "shortDescription": "A project based session on applications, scholarships, financial aid, course selection, fit, and cost for students and parents together.",
+      "speakerNames": [
+        "Dr. Qunoot Almecci"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        14
+      ]
+    },
+    {
+      "id": "sun_rooted_together_under6",
+      "date": "2026-10-11",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "timeLabel": null,
+      "title": "Rooted Together",
+      "subtitle": null,
+      "room": "Primrose",
+      "category": "children",
+      "audience": [
+        "ages 0 to 5"
+      ],
+      "shortDescription": "Children’s programme for ages 0 to 5. Ages 0 to 3 stay with parents. Ages 4 to 5 may drop off; parents are welcome.",
+      "speakerNames": [
+        "Al-Kisa Foundation"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": "Ages 0 to 3 stay with parents. Ages 4 to 5 may drop off; parents are welcome.",
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        13
+      ]
+    },
+    {
+      "id": "sun_palestine_action",
+      "date": "2026-10-11",
+      "startTime": "11:30",
+      "endTime": "13:00",
+      "timeLabel": null,
+      "title": "Palestine and What We Can Do From Here",
+      "subtitle": null,
+      "room": "Holly + Butternut",
+      "category": "workshop",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "A panel and working session on the global picture and what activism from North America can realistically do.",
+      "speakerNames": [
+        "Dr. Ali Moosvi",
+        "Abbas Jafri",
+        "Dr. Saleh Al-Ameen, MD",
+        "Mustafa Abdi"
+      ],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": "Open to all.",
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        38
       ]
     },
     {
@@ -996,8 +997,7 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        8,
-        24
+        29
       ]
     },
     {
@@ -1008,7 +1008,7 @@
       "timeLabel": null,
       "title": "Shiism in Contexts",
       "subtitle": "Academy | Policy | Civil Society",
-      "room": "Orchid + Violet",
+      "room": "Maple",
       "category": "workshop",
       "audience": [
         "all"
@@ -1027,56 +1027,82 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        9,
-        33
+        38
       ]
     },
     {
-      "id": "sun_palestine_action",
+      "id": "sun_research_showcase",
       "date": "2026-10-11",
-      "startTime": "11:30",
-      "endTime": "13:00",
+      "startTime": "13:00",
+      "endTime": "15:00",
       "timeLabel": null,
-      "title": "Palestine and What We Can Do From Here",
+      "title": "Global Youth Initiative: Research Showcase",
       "subtitle": null,
-      "room": "Primrose",
+      "room": "Birch",
+      "category": "special programme",
+      "audience": [
+        "college and graduate students",
+        "all"
+      ],
+      "shortDescription": "Research posters from college and graduate students are on display throughout the weekend. Presenters share their abstracts and research on Sunday from 1:00 to 3:00 PM in Birch. Winners will be announced.",
+      "speakerNames": [],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": "Posters on display throughout the weekend. Research presentations Sunday 1:00 to 3:00 PM in Birch.",
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        16
+      ]
+    },
+    {
+      "id": "sun_rob_turfe_podcast",
+      "date": "2026-10-11",
+      "startTime": "13:45",
+      "endTime": "14:45",
+      "timeLabel": null,
+      "title": "After Maghrib Podcast with Rob Turfe",
+      "subtitle": "The Art of Remembrance: Karbala, Film, and the Power of Story",
+      "room": "Main Conference Hall",
+      "category": "main session",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "Filmmaker Rob Turfe on The Sacrifice by the Euphrates and how filmmaking can bring the message of Imam Hussain (as) to global audiences.",
+      "speakerNames": [
+        "Rob Turfe"
+      ],
+      "moderatorNames": [
+        "Ahmed Gokal",
+        "Sayed Ali Radhawi"
+      ],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": false,
+      "sourcePages": [
+        10,
+        31
+      ]
+    },
+    {
+      "id": "sun_ballot",
+      "date": "2026-10-11",
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "timeLabel": null,
+      "title": "Your Name on the Ballot",
+      "subtitle": null,
+      "room": "Holly + Butternut",
       "category": "workshop",
       "audience": [
         "all"
       ],
-      "shortDescription": "A panel and working session on the global picture and what activism from North America can realistically do.",
+      "shortDescription": "A hands on clinic for anyone considering public office, covering filing, fundraising, supporters, messaging, and live practice.",
       "speakerNames": [
-        "Dr. Ali Moosvi",
-        "Abbas Jafri",
-        "Dr. Saleh Al-Ameen, MD",
-        "Mustafa Abdi"
-      ],
-      "moderatorNames": [],
-      "facilitatorNames": [],
-      "emceeNames": [],
-      "notes": "Open to all.",
-      "continuousOrUnscheduled": false,
-      "sourcePages": [
-        9,
-        33
-      ]
-    },
-    {
-      "id": "sun_little_umaah",
-      "date": "2026-10-11",
-      "startTime": "15:00",
-      "endTime": "17:00",
-      "timeLabel": null,
-      "title": "Little UMAAH",
-      "subtitle": null,
-      "room": "Holly + Butternut",
-      "category": "children",
-      "audience": [
-        "ages 0 to 5"
-      ],
-      "shortDescription": null,
-      "speakerNames": [
-        "UMAA"
+        "Alabbas Farhat",
+        "Akbar Ali",
+        "Ali Aljarrah"
       ],
       "moderatorNames": [],
       "facilitatorNames": [],
@@ -1084,7 +1110,7 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        10
+        39
       ]
     },
     {
@@ -1117,37 +1143,33 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        8,
-        25
+        32
       ]
     },
     {
-      "id": "sun_ballot",
+      "id": "sun_little_umaah",
       "date": "2026-10-11",
       "startTime": "15:00",
-      "endTime": "16:30",
+      "endTime": "17:00",
       "timeLabel": null,
-      "title": "Your Name on the Ballot",
+      "title": "Little UMAAH",
       "subtitle": null,
-      "room": "Orchid + Violet",
-      "category": "workshop",
+      "room": "Primrose",
+      "category": "children",
       "audience": [
-        "all"
+        "ages 0 to 5"
       ],
-      "shortDescription": "A hands on clinic for anyone considering public office, covering filing, fundraising, supporters, messaging, and live practice.",
+      "shortDescription": "Children’s programme for ages 0 to 5. Ages 0 to 3 stay with parents. Ages 4 to 5 may drop off; parents are welcome.",
       "speakerNames": [
-        "Alabbas Farhat",
-        "Akbar Ali",
-        "Ali Aljarrah"
+        "UMAA"
       ],
       "moderatorNames": [],
       "facilitatorNames": [],
       "emceeNames": [],
-      "notes": null,
+      "notes": "Ages 0 to 3 stay with parents. Ages 4 to 5 may drop off; parents are welcome.",
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        9,
-        34
+        13
       ]
     },
     {
@@ -1158,7 +1180,7 @@
       "timeLabel": null,
       "title": "Sukooni Teens",
       "subtitle": null,
-      "room": "Primrose",
+      "room": "Maple",
       "category": "youth",
       "audience": [
         "females only",
@@ -1174,9 +1196,7 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        12,
-        14,
-        17
+        14
       ]
     },
     {
@@ -1190,19 +1210,19 @@
       "room": "Evergreen",
       "category": "children",
       "audience": [
-        "ages 7 to 11"
+        "ages 6 to 11"
       ],
-      "shortDescription": null,
+      "shortDescription": "Children’s programme for ages 6 to 11. Parents may drop off or stay.",
       "speakerNames": [
         "Mullah Ali Fadhil"
       ],
       "moderatorNames": [],
       "facilitatorNames": [],
       "emceeNames": [],
-      "notes": null,
+      "notes": "Parents may drop off. Parents are welcome to stay.",
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        10
+        13
       ]
     },
     {
@@ -1232,8 +1252,7 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        8,
-        25
+        32
       ]
     },
     {
@@ -1264,15 +1283,14 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        8,
-        27
+        34
       ]
     },
     {
       "id": "sun_centres_next",
       "date": "2026-10-11",
-      "startTime": "17:00",
-      "endTime": "18:30",
+      "startTime": "17:15",
+      "endTime": "18:45",
       "timeLabel": null,
       "title": "Who Runs Our Centres Next",
       "subtitle": null,
@@ -1296,15 +1314,14 @@
       "notes": "For centre boards, trustees, and emerging leaders.",
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        9,
-        34
+        39
       ]
     },
     {
       "id": "sun_stand_dignity",
       "date": "2026-10-11",
-      "startTime": "17:00",
-      "endTime": "18:30",
+      "startTime": "17:15",
+      "endTime": "18:45",
       "timeLabel": null,
       "title": "Stand With Dignity",
       "subtitle": null,
@@ -1327,8 +1344,7 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        9,
-        35
+        40
       ]
     },
     {
@@ -1346,36 +1362,34 @@
       ],
       "shortDescription": "Part two of the leadership series: a design challenge turning Saturday’s simulation into a practical program or institution.",
       "speakerNames": [
-        "Abeeha Hassan",
         "Jafar Syed"
       ],
-      "moderatorNames": [],
+      "moderatorNames": [
+        "Abeeha Hassan"
+      ],
       "facilitatorNames": [],
       "emceeNames": [],
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        9,
-        12,
-        21
+        23
       ]
     },
     {
-      "id": "sun_blind_faith",
+      "id": "sun_conversation_architect",
       "date": "2026-10-11",
       "startTime": "19:30",
       "endTime": "21:00",
       "timeLabel": null,
-      "title": "Do I have blind faith?",
-      "subtitle": null,
-      "room": "Holly + Butternut",
+      "title": "The Conversation Architect",
+      "subtitle": "Designing better conversations. Building deeper connections.",
+      "room": "Orchid + Violet",
       "category": "workshop",
       "audience": [
         "all"
       ],
-      "shortDescription": "After Maghrib recorded live on belief examined rather than assumed, identity, moral decay, family, and what is worth passing on.",
+      "shortDescription": "A working session with the After Maghrib Podcast team on the questions, pauses, and choices that build better conversations.",
       "speakerNames": [
-        "Sheikh Azhar Nasser",
         "Ahmed Gokal",
         "Sayed Ali Radhawi"
       ],
@@ -1385,8 +1399,8 @@
       "notes": null,
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        9,
-        35
+        11,
+        40
       ]
     },
     {
@@ -1412,8 +1426,31 @@
       "notes": "Seating by ticket. Dinner served. Lecture follows.",
       "continuousOrUnscheduled": false,
       "sourcePages": [
-        8,
-        29
+        36
+      ]
+    },
+    {
+      "id": "sun_fajr_nahjul_balagha",
+      "date": "2026-10-11",
+      "startTime": null,
+      "endTime": null,
+      "timeLabel": "Morning · exact time not specified",
+      "title": "Fajr and Nahjul Balagha",
+      "subtitle": null,
+      "room": "Main Conference Hall",
+      "category": "special programme",
+      "audience": [
+        "all"
+      ],
+      "shortDescription": "Morning reflection followed by a reading circle on Imam Ali’s sermons. Breakfast is served after Fajr.",
+      "speakerNames": [],
+      "moderatorNames": [],
+      "facilitatorNames": [],
+      "emceeNames": [],
+      "notes": null,
+      "continuousOrUnscheduled": true,
+      "sourcePages": [
+        16
       ]
     },
     {
@@ -1437,8 +1474,7 @@
       "notes": null,
       "continuousOrUnscheduled": true,
       "sourcePages": [
-        13,
-        14
+        16
       ]
     }
   ]
