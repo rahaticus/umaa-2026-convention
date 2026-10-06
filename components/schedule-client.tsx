@@ -6,7 +6,7 @@ import { SessionCard } from './session-card';
 
 const days = [['2026-10-09', 'Friday', 'October 9, 2026'], ['2026-10-10', 'Saturday', 'October 10, 2026'], ['2026-10-11', 'Sunday', 'October 11, 2026']] as const;
 const dayIds = days.map(([date]) => date);
-const views = [['full', 'Full Schedule'], ['main', 'Main Sessions Only'], ['workshops', 'Workshops Only'], ['children', "Children's Program Only"], ['ladies', 'Ladies Only']] as const;
+const views = [['full', 'Full Schedule'], ['main', 'Main Sessions Only'], ['workshops', 'Workshops Only'], ['children', "Children's Program Only"], ['ladies', 'Ladies Only'], ['youth', 'Youth Programs']] as const;
 type View = typeof views[number][0];
 
 function isView(value: string | null): value is View { return views.some(([id]) => id === value); }
@@ -31,6 +31,7 @@ export function ScheduleClient() {
 
   const chooseView = (next: View) => {
     setView(next);
+    if (next === 'youth') { setQuery(''); setCategory(''); setRoom(''); }
     setOpenDays(dayIds);
     const url = new URL(window.location.href);
     if (next === 'full') url.searchParams.delete('view'); else url.searchParams.set('view', next);
@@ -40,7 +41,7 @@ export function ScheduleClient() {
   const rooms = useMemo(() => [...new Set(sessions.map(s => s.room).filter(Boolean))].sort(), []);
   const categories = useMemo(() => [...new Set(sessions.map(s => s.category))].sort(), []);
   const list = useMemo(() => sessions.filter(s => {
-    const matchesView = view === 'full' || (view === 'main' && s.category === 'main session') || (view === 'workshops' && s.category === 'workshop') || (view === 'children' && s.category === 'children') || (view === 'ladies' && isLadiesOnly(s));
+    const matchesView = view === 'full' || (view === 'main' && s.category === 'main session') || (view === 'workshops' && s.category === 'workshop') || (view === 'children' && s.category === 'children') || (view === 'ladies' && isLadiesOnly(s)) || (view === 'youth' && s.category === 'youth');
     const searchable = [s.title, s.room, s.category, sessionDescription(s), ...s.speakerNames, ...s.moderatorNames, ...s.facilitatorNames].join(' ').toLowerCase();
     return matchesView && searchable.includes(query.toLowerCase()) && (!category || s.category === category) && (!room || s.room === room);
   }), [category, query, room, view]);
